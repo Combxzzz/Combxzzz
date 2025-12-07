@@ -32,12 +32,15 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
 ---
-<div>
-  <img src="https://media1.tenor.com/m/yDFMgw_vDqoAAAAd/toji-fushiguro-toji.gif" alt="toji💀" width="300""")/>
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Combxzzz/Combxzzz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Combxzzz/Combxzzz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Combxzzz/Combxzzz/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div>
+  <img src="https://media1.tenor.com/m/yDFMgw_vDqoAAAAd/toji-fushiguro-toji.gif" alt="toji💀" width="300""")/>
+</div>
+
+
