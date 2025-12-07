@@ -39,7 +39,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
   
 <div>
-  <img src="https://i.pinimg.com/736x/99/a3/dd/99a3dd3b60bee01e680acd118e2c706d.jpg" alt="Gif")/>
+  <img src="https://media1.tenor.com/m/yDFMgw_vDqoAAAAd/toji-fushiguro-toji.gif" alt="Toji Fushiguro GIF" width="300""")/>
 </div>
 
 
