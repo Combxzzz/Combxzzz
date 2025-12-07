@@ -1,54 +1,23 @@
-<h1 align="center">💻 Combos — Bem-vindo ao meu perfil! 🚀</h1>
+# Combxzzz
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=440&lines=Desenvolvedor+em+evolução;Python+%7C+Java+%7C+Roblox+Luau;Amante+de+Tecnologia+e+Automação;Bem-vindo+ao+meu+repositório!" />
-</p>
+**`Programador Iniciante`**
 
----
+Sou Vinicius “Combos” Pizzi, programador iniciante de 17 anos. Atualmente estudo Python e Java, sempre buscando melhorar minha lógica e aprender novas tecnologias. Gosto de criar pequenos projetos, testar ideias e entender como as coisas funcionam por trás do código. Estou construindo minha experiência aos poucos, explorando diferentes áreas da programação e desenvolvendo meu próprio estilo de aprendizado.
 
-## 🌿 Sobre mim
-- 🧠 Curioso por tecnologia  
-- ⚡ Python enjoyer  
-- 🔧 Criando bots, scripts e pequenos projetos  
-- 🎮 Programando também em **Roblox (Luau)**  
-- 🧑‍💻 Em busca de melhorar um pouco todo dia
-
----
-
-## 📊 Estatísticas do GitHub
+## Estatisticas
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Combxzzz&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api?username=Combxzzz&show_icons=true&hide_border=true&theme=radical" />
 
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
----
-
-## 🛠️ Tech Stack
-<div align="center">
-  
-| Linguagens | Ferramentas | Outras |
-|-----------|-------------|--------|
-| 🐍 Python | VS Code | Git & GitHub |
-| ☕ Java | GitHub Actions | Automação |
-| 🔥 Luau (Roblox) | Figma | Projetos pessoais |
+<img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&hide_border=true&theme=dark" />
 
 </div>
 
 ---
 
-## 🌐 Contato
-<div align="center">
-  
-[📩 Email](mailto:seuemail@exemplo.com) •  
-[💬 Discord: **seuDiscord**]  
+## Linguagens
+Python  
+Java    
 
-</div>
-
----
-
-<p align="center">🧪 <i>"Código limpo, mente limpa."</i></p>
+<p align="left">"Combxzzz"</p>
