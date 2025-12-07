@@ -7,7 +7,6 @@
 <div align="left">
 
   Sou Vinicius “**Combos**” Pizzi, programador iniciante de 17 anos. Atualmente estudo Python e Java, sempre buscando melhorar minha lógica e aprender novas tecnologias. Gosto de criar pequenos projetos, testar ideias e entender como as coisas funcionam por trás do código. Estou construindo minha experiência aos poucos, explorando diferentes áreas da programação e desenvolvendo meu próprio estilo de aprendizado.
-
   
   * Começando a aprender Java ☕
   * Produzindo pequenos projetos em Python 🐍
@@ -15,17 +14,12 @@
     
 </div>
 
-
-
 ## **_Stacks:_**
-
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
   ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
-
-
 
 ## **_Estatisticas_** ↗️:
 
