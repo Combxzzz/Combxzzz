@@ -31,8 +31,8 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
-## **_Contato:_**
-  [![Meu E-mail](img.shields.io)](mailto:pizzinicius@gmail.com)
-
-  
 ---
+<div>
+  <img src="https://media1.tenor.com/m/yDFMgw_vDqoAAAAd/toji-fushiguro-toji.gif" alt="toji💀" width="300""")/>
+</div>
+
