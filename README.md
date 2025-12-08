@@ -20,7 +20,7 @@
 
 <img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api?username=Combxzzz&show_icons=true&hide_border=true&theme=midnight-purple&v=2" />
 
-<img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&hide_border=true&theme=midnight-purple" />
+<img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&hide_border=true&theme=midnight-purple&v=2" />
 
 </div>
 
