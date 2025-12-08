@@ -11,6 +11,7 @@
   * Começando a aprender Java ☕
   * Produzindo pequenos projetos em Python 🐍
   * Me preparando para o mercado de trabalho 💼
+  * Aprendendo sobre banco de dados (MySQL) 🎲
     
 </div>
 
@@ -18,9 +19,9 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api?username=Combxzzz&show_icons=true&hide_border=true&theme=midnight-purple&v=3" />
+<img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api?username=Combxzzz&show_icons=true&hide_border=true&theme=midnight-purple&v=2" />
 
-<img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&hide_border=true&theme=midnight-purple&v=3" />
+<img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&hide_border=true&theme=midnight-purple&v=2 />
 
 </div>
 
