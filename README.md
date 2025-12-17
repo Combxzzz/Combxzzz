@@ -8,11 +8,10 @@
 
   Sou Vinicius “**Combos**” Pizzi, programador iniciante de 17 anos. Atualmente estudo Python, Java e MySQL, sempre buscando melhorar minha lógica e aprender novas tecnologias. Gosto de criar pequenos projetos, testar ideias e entender como as coisas funcionam por trás do código. Estou construindo minha experiência aos poucos, explorando diferentes áreas da programação e desenvolvendo meu próprio estilo de aprendizado.
   
-  * Começando a aprender Java ☕
-  * Produzindo pequenos projetos em Python 🐍
+  * Produzindo pequenos projetos e estudando Python 🐍
   * Me preparando para o mercado de trabalho 💼
   * Aprendendo sobre banco de dados (MySQL) 🎲
-    
+
 </div>
 
 ## **_Estatisticas_** ↗️:
