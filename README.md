@@ -11,10 +11,11 @@
   * Produzindo pequenos projetos e estudando Python 🐍
   * Me preparando para o mercado de trabalho 💼
   * Aprendendo sobre banco de dados (MySQL) 🎲
+  * Começando a aprendendo mais sobre Java ☕
 
 </div>
 
-## **_Estatisticas_** ↗️:
+## **_Estatísticas_** ↗️:
 
 <div align="center">
 
