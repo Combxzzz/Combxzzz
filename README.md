@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&size=32&duration=3500&pause=600&color=8100FF&background=25BDFF00&center=true&vCenter=true&repeat=false&width=435&lines=Welcome!;Combxzzz!" alt="Typing SVG" /></a>
-</div>
-
 <div align="left">
   
 ## About Me
@@ -23,6 +19,8 @@
   
   <img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&hide_border=true&theme=midnight-purple&exclude_repo=github-readme-stats/Python/Jogo_RPG-Python/PythonPOO/Django&hide=html,css,cmake" />
 
+  [![](https://streak-stats.demolab.com/?user=Combxzzz&count_private=true&hide_border=true&theme=midnight-purple&title_color=00b3ff)](#)
+  
 </div>
 
 ## **_Stacks:_**
@@ -33,7 +31,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,spring,git,github,python,django,linux,bash,mysql,postgres,c,cpp,go" />
     </a>
-  </p>
+ </p>
   
 </div>
 
