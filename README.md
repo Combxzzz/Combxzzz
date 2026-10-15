@@ -7,6 +7,7 @@
   - Studying software architecture and automation
   - Continuously improving problem-solving skills
   - Improving my knowledge of relational databases (PostgreSQL, MySQL)
+  - Learning more about C and C++
   
 </div>
 
