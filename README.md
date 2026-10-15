@@ -21,7 +21,7 @@
 
   <img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api?username=Combxzzz&show_icons=true&hide_border=true&theme=midnight-purple&v=3" />
   
-  <img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&hide_border=true&theme=midnight-purple&v=3&exclude_repo=github-readme-stats/Python/Jogo_RPG-Python/PythonPOO/Django" />
+  <img height="160em" src="https://github-readme-stats-wheat-ten.vercel.app/api/top-langs/?username=Combxzzz&layout=compact&hide_border=true&theme=midnight-purple&exclude_repo=github-readme-stats/Python/Jogo_RPG-Python/PythonPOO/Django&hide=html,css,cmake" />
 
 </div>
 
