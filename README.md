@@ -8,6 +8,7 @@
   - Continuously improving problem-solving skills
   - Improving my knowledge of relational databases (PostgreSQL, MySQL)
   - Learning more about C and C++
+  - Exploring Mobile Development
   
 </div>
 
